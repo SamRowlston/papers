@@ -1,5 +1,5 @@
 # Title
-Measurement of BBOA over West Africa
+Aircraft measurement of BBOA over West Africa
 
 #Authors
 Gerard Capes
