@@ -6,5 +6,7 @@ Gerard Capes
 
 #Introduction
 
-We have to acknowledge previous work, so as not to appear fill of ourselves. 
+We have to acknowledge previous work, so as not to appear full of ourselves. 
+
+We used an AMS (Allen et al. 2004) to measure particle composition
 
