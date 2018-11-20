@@ -1,9 +1,13 @@
 # Title
 Model-measurement comparison of BBOA over West Africa
 
-#Authors
+# Authors
 Gerard Capes
 John Smith
+
+# Abstract
+
+Write this last, its the most difficult part to do. 
 
 # Introduction
 
