@@ -1,8 +1,9 @@
 # Title
-Measurement of BBOA over West Africa
+Simulations of BBOA over West Africa
 
 #Authors
 Gerard Capes
+John Smith
 
 #Introduction
 
