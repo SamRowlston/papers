@@ -5,7 +5,7 @@ Model-measurement comparison of BBOA over West Africa
 Gerard Capes
 John Smith
 
-#Introduction
+# Introduction
 
 We have to acknowledge previous work, so as not to appear full of ourselves. 
 
@@ -17,6 +17,10 @@ Ground based measurements of BBOA have been made by J Smith et al.
 
 John's box model simulations supports the hypothesis that coagulation is driving pareticle growth
 
-#Methodology
+# Methodology
 
 Particle size distributions were measured using a TSI SMPS (Bloggs et al 2007)
+
+# Figures
+
+This is where the figures go. It's only a draft
